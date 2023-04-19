@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>true</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>pgptoolgui.jar</jar>
-  <outfile>/home/sergeyk/_prj/pgptool/pgptool-gui/target/pgptool.exe</outfile>
+  <jar>value for this field will be set by maven plugin during build</jar>
+  <outfile>value for this field will be set by maven plugin during build</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
@@ -13,7 +13,7 @@
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
-  <icon>/home/sergeyk/_prj/pgptool/pgptool-gui/src/main/resources/icons/favicon.ico</icon>
+  <icon>value for this field will be set by maven plugin during build</icon>
   <jre>
     <path>%JAVA_HOME%</path>
     <bundledJre64Bit>false</bundledJre64Bit>
